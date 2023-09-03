@@ -4,6 +4,6 @@ lorem ipsum dolor sit amet, consectet adip proident, sed diam nonum vulputate ve
 
 ## IDK
 
-- [] AJAM
+- [x] AJAM
 - [] YEP
 - [] WHATEVER
