@@ -13,8 +13,8 @@ This is a repo for personal testing of how the f use git flow correctly.
 
 ## FRUITS CHECKLIST
 
-- [] Apples
-- [] Pears
+- [x] Apples
+- [x] Pears
 - [] Kiwi
-- [] Organges
-- [] Watermelon
+- [x] Organges
+- [x] Watermelon
