@@ -11,11 +11,10 @@ This is a repo for personal testing of how the f use git flow correctly.
 - feature
 - hotfix
 
-## CHECKLIST
+## FRUITS CHECKLIST
 
 - [] Apples
 - [] Pears
 - [] Kiwi
 - [] Organges
 - [] Watermelon
-- [] Carrots
