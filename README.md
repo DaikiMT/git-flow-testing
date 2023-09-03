@@ -6,4 +6,4 @@ lorem ipsum dolor sit amet, consectet adip proident, sed diam nonum vulputate ve
 
 - [x] AJAM
 - [x] YEP
-- [] WHATEVER
+- [x] WHATEVER
